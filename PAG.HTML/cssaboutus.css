@@ -1,0 +1,6 @@
+.columnatexto{
+    column-count: 3;
+    column-gap: 10%;
+    column-rule-style: solid;
+    column-rule-color: rgb(255, 230, 0);
+}
