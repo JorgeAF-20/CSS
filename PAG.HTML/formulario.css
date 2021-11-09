@@ -1,0 +1,24 @@
+h3{
+    text-align: center;
+    color: blue;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 200%;
+}
+form{
+    text-align: center;
+    background-color:#A7C0BD ;
+    margin right: 5%;
+    white-space: pre-line;   
+}
+
+
+input {
+    width: 50%;
+    margin: 10px auto;
+    display: block;
+    padding: 1%;
+}
+select{
+    margin-bottom: 1%;
+    
+}
