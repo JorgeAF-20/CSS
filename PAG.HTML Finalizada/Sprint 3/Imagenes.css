@@ -1,0 +1,18 @@
+/*Elementos de imagenes*/
+.bordeimg{
+    border-radius: 30%;
+    opacity: 1;
+    max-width: 100%;
+    height: auto;
+}
+.reflect:hover{
+    -webkit-box-reflect: right;  
+}
+.opaci{
+    opacity: 0.7;
+    border-radius: 20px;
+}
+.respon{
+    max-width: 100%;
+    height: auto;
+}
