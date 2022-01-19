@@ -98,15 +98,11 @@ body {
         font-size: 200%;
     }
     form{
-        text-align: center;
         background-color:#A7C0BD ;
-        margin-right: 5%;
-        white-space: pre-line;   
+        margin-right: 5%;  
     }
     input {
         width: 50%;
-        margin:  auto;
-        display: block;
         padding: 1%;
     }
     select{
@@ -119,6 +115,7 @@ body {
     }
     input[type=text]:focus {
         background-color: lightblue;
+       
       }
     textarea {
         width: 55%;
@@ -165,7 +162,6 @@ body {
         padding: 1% 2%;
         margin: 0.5% 0;
         border-radius:4%;
-        display: inline-block;
       }
       
       input[type=submit]:hover {
@@ -178,7 +174,6 @@ body {
         padding: 1% 2%;
         margin: 0.5% 0;
         border-radius:4%;
-        display: inline-block;
       }
       /*Carlos Bordes, Padding y Tablas*/
       ul {
